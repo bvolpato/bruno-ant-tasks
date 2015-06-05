@@ -14,7 +14,7 @@ import org.w3c.dom.Element;
 
 /**
  * Some XPath tests
- * @author bruno.cunha
+ * @author Bruno Candido Volpato da Cunha
  *
  */
 public class XPathChangeTest {

@@ -15,7 +15,7 @@ import org.junit.Test;
 
 /**
  * Some Props tests
- * @author bruno.cunha
+ * @author Bruno Candido Volpato da Cunha
  *
  */
 public class PropChangeTest {

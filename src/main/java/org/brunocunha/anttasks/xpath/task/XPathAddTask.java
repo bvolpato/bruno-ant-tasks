@@ -14,7 +14,7 @@ import org.xml.sax.SAXException;
 /**
  * Task that adds a node to a XML Document, using XPath to select parent node
  * 
- * @author bruno.cunha
+ * @author Bruno Candido Volpato da Cunha
  *
  */
 public class XPathAddTask extends Task {

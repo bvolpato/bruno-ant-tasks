@@ -12,7 +12,7 @@ import org.brunocunha.anttasks.prop.impl.CommentedProperties;
  * Property Change task. It is responsible for changing properties file key
  * without changing undesired content
  * 
- * @author bruno.cunha
+ * @author Bruno Candido Volpato da Cunha
  *
  */
 public class PropChangeTask extends Task {

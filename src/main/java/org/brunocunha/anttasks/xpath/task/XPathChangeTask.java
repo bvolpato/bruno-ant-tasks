@@ -13,7 +13,7 @@ import org.xml.sax.SAXException;
 /**
  * Task that changes a node in a XML Document, using XPath to select parent node
  * 
- * @author bruno.cunha
+ * @author Bruno Candido Volpato da Cunha
  *
  */
 public class XPathChangeTask extends Task {

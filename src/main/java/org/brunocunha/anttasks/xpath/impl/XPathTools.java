@@ -32,7 +32,7 @@ import org.xml.sax.SAXException;
 /**
  * Some boilerplate code to work with XPath
  * 
- * @author bruno.cunha
+ * @author Bruno Candido Volpato da Cunha
  *
  */
 public class XPathTools {
