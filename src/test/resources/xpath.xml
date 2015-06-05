@@ -1,0 +1,10 @@
+<pessoas>
+	<pessoa id="1">
+		<nome>Bruno Candido Volpato da Cunha</nome>
+		<idade>24</idade>
+	</pessoa>
+	<pessoa id="2">
+		<nome>Android 23</nome>
+		<idade>23</idade>
+	</pessoa>
+</pessoas>
