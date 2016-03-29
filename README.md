@@ -1,5 +1,5 @@
 # bruno-ant-tasks
-Useful ant tasks
+:ant:  Useful ant tasks
 
 - Current tasks
     - [PropChangeTask](#PropChangeTask)
